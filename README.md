@@ -2,7 +2,7 @@
 
 Text Analysis is becoming a fundamental tool in Data Science, because of the importance of parsing texts in order to extract machine-readable facts from them.
 
-The goal of this text mining project is to accomplish to three main tasks:
+The goal of this text mining project is to accomplish three main tasks:
 
 * **First Task - Data Cleaning and Pre-processing on Facebook comments:**
 1. removing punctuation and stop words;
