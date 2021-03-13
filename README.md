@@ -5,7 +5,7 @@ Text Analysis is becoming a fundamental tool in Data Science, because of the imp
 The goal of this text mining project is to accomplish three main tasks:
 
 * **First Task - Data Cleaning and Pre-processing on Facebook comments:**
-1. removing punctuation and stop words;
+1. Removing punctuation and stop words;
 2. Tokenization of the text;
 3. Bi-grams;
 4. Split corpus in sentences;
